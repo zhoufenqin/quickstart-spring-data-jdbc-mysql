@@ -1,0 +1,94 @@
+[
+  {
+    "name":"org.springframework.context.annotation.internalConfigurationAnnotationProcessor",
+    "allDeclaredConstructors":true,
+    "packages": [
+      "com.mysql.cj.jdbc",
+      "org.springframework.context.annotation"
+    ]
+  },
+  {
+    "name": "com.mysql.cj.jdbc.Driver",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.SingleConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.FailoverDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.LoadBalanceDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.ReplicationDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.XDevApiDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.FailoverConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.LoadBalanceConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.ReplicationConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+  "name": "com.mysql.cj.conf.url.XDevApiConnectionUrl",
+  "allDeclaredFields": true,
+  "allDeclaredMethods": true,
+  "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.log.Jdk14Logger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.log.NullLogger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.log.Slf4JLogger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.log.StandardLogger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  }
+]
